@@ -1,0 +1,1 @@
+SYSTEM_PROMPT = "You must ONLY use the provided tools to answer questions. If a tool fails or is unavailable, explicitly say you cannot answer. Do not compute answers yourself."
